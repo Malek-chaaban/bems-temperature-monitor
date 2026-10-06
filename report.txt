@@ -1,0 +1,17 @@
+BEMS TEMPERATURE REPORT
+========================================
+
+Office (allowed 20.0-24.0 C)
+  Min 20.9 C | Max 22.1 C | Average 21.5 C
+  Out-of-range readings: 0
+  Status: OK
+
+Server Room (allowed 18.0-24.0 C)
+  Min 19.4 C | Max 28.5 C | Average 20.6 C
+  Out-of-range readings: 8
+  SUSTAINED FAULT: TOO HOT from 2026-10-12 13:00 to 2026-10-12 14:45 (8 readings)
+
+Meeting Room (allowed 19.0-24.0 C)
+  Min 16.6 C | Max 21.6 C | Average 20.5 C
+  Out-of-range readings: 12
+  SUSTAINED FAULT: TOO COLD from 2026-10-12 04:00 to 2026-10-12 06:45 (12 readings)
